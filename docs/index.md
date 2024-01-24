@@ -24,6 +24,8 @@ In this new para we create a numbered list using numbers.
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
+[Test Link](testlink.md)
+
 You can write code by using triple-ticks:
 
 ```python
